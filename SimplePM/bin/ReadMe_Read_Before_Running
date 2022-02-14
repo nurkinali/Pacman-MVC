@@ -1,0 +1,10 @@
+To Run this game properly please make sure to set the following :
+
+Run Configuration :
+set Main Class to : gameMain.Main
+set VM Arguments to : --module-path /path/to/JavaFX/lib --add-modules=javafx.controls,javafx.fxml
+under dependacies make sure to load javaFX jars
+
+
+
+Set  ResourcesFileName.SYSTEM_PATH as the path of the project on your pc

@@ -1,0 +1,18 @@
+.title{
+ -fx-text-fill: #1034A6;
+ -fx-font-size: 28px;
+-fx-font-family: "Italic" ;
+-fx-effect:dropshadow(one-pass-box,#0F52BA,8,0.0,2,0);  
+}
+
+.buttons{
+   -fx-background-color: linear-gradient(#1034A6, #006cbe);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.window{
+-fx-background-color: #F0F8FF;
+}
